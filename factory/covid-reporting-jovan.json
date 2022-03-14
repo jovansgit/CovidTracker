@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-jovan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "385e0ffc-ce9b-4a79-b19e-90bc98d90315",
+		"tenantId": "9c5b6882-4a78-4b9f-a071-55a66d061382"
+	}
+}
